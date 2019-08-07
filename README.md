@@ -12,10 +12,21 @@
 ----------
 
 
-<b>IP查询</b>:根据ip地址获取其所在省市区——<a href="https://www.free-api.com/doc/240">接口地址</a><br><b>IP经纬度查询</b>:根据ip地址和经纬度获取其所在省市区——<a href="https://www.free-api.com/doc/241">接口地址</a><br><b>实时段子(可在线调用)</b>:实时段子,神评版本——<a href="https://www.free-api.com/doc/242">接口地址</a><br><b>音乐搜索(可在线调用)</b>:根据音乐名称返回音乐详情——<a href="https://www.free-api.com/doc/243">接口地址</a><br><b>小说查询(可在线调用)</b>:获取小说的详细信息——<a href="https://www.free-api.com/doc/244">接口地址</a><br><b>天气查询(可在线调用)</b>:获取最近天气情况——<a href="https://www.free-api.com/doc/245">接口地址</a><br><b>音悦tai搜索</b>:音悦Tai-是以高清MV为主的娱乐视频网...——<a href="https://www.free-api.com/doc/246">接口地址</a><br><b>识别身份证文字(可在线调用)</b>:AI人工智能识别身份证图像文字 URL图...——<a href="https://www.free-api.com/doc/247">接口地址</a><br><b>编码解码</b>:常见的编码和解码——<a href="https://www.free-api.com/doc/248">接口地址</a><br><b>网站备案查询</b>:网站备案信息查询接口——<a href="https://www.free-api.com/doc/249">接口地址</a><br><b>身份证信息查询(可在线调用)</b>:身份证信息查询(不支持查询百岁老人)——<a href="https://www.free-api.com/doc/250">接口地址</a><br><b>图片PS</b>:在线图片加文字,返回为字符串,需要处理下——<a href="https://www.free-api.com/doc/251">接口地址</a><br><b>一言</b>:随机返回一句话——<a href="https://www.free-api.com/doc/252">接口地址</a><br><b>短链接生成与还原</b>:短链接生成与还原，包括新浪、腾讯、百度——<a href="https://www.free-api.com/doc/253">接口地址</a><br><b>获取用户大致信息</b>:获取用户信息如网络运营商等等——<a href="https://www.free-api.com/doc/254">接口地址</a><br><b>三合一收款码</b>:包括支付宝，qq，微信——<a href="https://www.free-api.com/doc/255">接口地址</a><br>
+<b>实时段子(可在线调用)</b>:实时段子,神评版本——<a href="https://www.free-api.com/doc/240">接口地址</a><br><b>音乐搜索(可在线调用)</b>:根据音乐名称返回音乐详情——<a href="https://www.free-api.com/doc/241">接口地址</a><br><b>小说查询(可在线调用)</b>:获取小说的详细信息——<a href="https://www.free-api.com/doc/242">接口地址</a><br><b>天气查询(可在线调用)</b>:获取最近天气情况——<a href="https://www.free-api.com/doc/243">接口地址</a><br><b>音悦tai搜索</b>:音悦Tai-是以高清MV为主的娱乐视频网...——<a href="https://www.free-api.com/doc/244">接口地址</a><br><b>识别身份证文字(可在线调用)</b>:AI人工智能识别身份证图像文字 URL图...——<a href="https://www.free-api.com/doc/245">接口地址</a><br><b>编码解码</b>:常见的编码和解码——<a href="https://www.free-api.com/doc/246">接口地址</a><br><b>网站备案查询</b>:网站备案信息查询接口——<a href="https://www.free-api.com/doc/247">接口地址</a><br><b>身份证信息查询(可在线调用)</b>:身份证信息查询(不支持查询百岁老人)——<a href="https://www.free-api.com/doc/248">接口地址</a><br><b>图片PS</b>:在线图片加文字,返回为字符串,需要处理下——<a href="https://www.free-api.com/doc/249">接口地址</a><br><b>一言</b>:随机返回一句话——<a href="https://www.free-api.com/doc/250">接口地址</a><br><b>短链接生成与还原</b>:短链接生成与还原，包括新浪、腾讯、百度——<a href="https://www.free-api.com/doc/251">接口地址</a><br><b>获取用户大致信息</b>:获取用户信息如网络运营商等等——<a href="https://www.free-api.com/doc/254">接口地址</a><br><b>三合一收款码</b>:包括支付宝，qq，微信——<a href="https://www.free-api.com/doc/255">接口地址</a><br><b>IP查询</b>:根据ip地址获取其所在省市区——<a href="https://www.free-api.com/doc/252">接口地址</a><br><b>IP经纬度查询</b>:根据ip地址和经纬度获取其所在省市区——<a href="https://www.free-api.com/doc/253">接口地址</a>
 
 
 ----------
 
+
+2019.8.7更新接口
+
+
+----------
+
+
+<b>淘宝ip(可在线调用)</b>:来自淘宝的ip查询，可以根据ip地址查询...——<a href="https://www.free-api.com/doc/256">接口地址</a><br><b>360ip(可在线调用)</b>:来自360的ip查询，可以根据ip地址查...——<a href="https://www.free-api.com/doc/257">接口地址</a><br><b>地理编码(可在线调用)</b>:将详细的结构化地址转换为高德经纬度坐标。...——<a href="https://www.free-api.com/doc/258">接口地址</a><br><b>逆地理编码(可在线调用)</b>:将经纬度转换为详细结构化的地址，且返回附...——<a href="https://www.free-api.com/doc/259">接口地址</a><br><b>步行路径规划</b>:可以规划100KM以内的步行通勤方案，并...——<a href="https://www.free-api.com/doc/260">接口地址</a><br><b>驾车路径规划(可在线调用)</b>:规划以小客车、轿车通勤出行的方案，并且返...——<a href="https://www.free-api.com/doc/261">接口地址</a><br><b>公交路径规划</b>:规划综合各类公共（火车、公交、地铁）交通...——<a href="https://www.free-api.com/doc/262">接口地址</a><br><b>骑行路径规划(可在线调用)</b>:用于规划骑行通勤方案，规划时不会考虑路况...——<a href="https://www.free-api.com/doc/263">接口地址</a><br><b>距离测量</b>:根据经纬度测量距离——<a href="https://www.free-api.com/doc/264">接口地址</a><br><b>行政区域查询(可在线调用)</b>:根据用户输入的搜索条件可以帮助用户快速的...——<a href="https://www.free-api.com/doc/265">接口地址</a><br><b>矩形区域交通态势</b>:能够确定矩形交通态势情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/266">接口地址</a><br><b>圆形区域交通态势</b>:能够确定圆形交通态势情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/267">接口地址</a><br><b>指定线路交通态势</b>:能够确定指定线路交通情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/268">接口地址</a><br><b>输入提示(可在线调用)</b>:提供根据用户输入的关键词查询返回建议列表——<a href="https://www.free-api.com/doc/269">接口地址</a><br><b>天气查询(可在线调用)</b>:查询目标区域当前/未来的天气情况——<a href="https://www.free-api.com/doc/270">接口地址</a><br><b>IP定位(可在线调用)</b>:将IP信息转换为地理位置信息——<a href="https://www.free-api.com/doc/271">接口地址</a><br><b>地点范围查询(可在线调用)</b>:根据经纬度查询查询其地址相关信息——<a href="https://www.free-api.com/doc/272">接口地址</a>
+
+
+----------
 
 努力添加中......
