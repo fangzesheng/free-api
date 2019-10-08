@@ -38,4 +38,15 @@
 
 ----------
 
+
+2019.10.8更新接口
+
+
+----------
+
+
+<b>全球IP地理位置(可在线调用)</b>:单个IPv4 / IPv6地址或域名...——<a href="https://www.free-api.com/doc/292">接口地址</a><br><b>域名备案(可在线调用)</b>:根据域名查询域名备案状态——<a href="https://www.free-api.com/doc/293">接口地址</a><br><b>十五天天气预报</b>:采用城市ID来精准查询15天内的天气，接...——<a href="https://www.free-api.com/doc/294">接口地址</a><br><b>农历查询(可在线调用)</b>:根据日期获取农历、黄历、禁忌、星期、生肖...——<a href="https://www.free-api.com/doc/295">接口地址</a><br><b>ICP备案查询(可在线调用)</b>:根据域名查询ICP备案号——<a href="https://www.free-api.com/doc/296">接口地址</a><br><b>三合一收款二维码</b>:将QQ、微信、支付宝收款集合到一起，省去...——<a href="https://www.free-api.com/doc/297">接口地址</a><br><b>二维码生成</b>:将网址直接转换成二维码图片——<a href="https://www.free-api.com/doc/298">接口地址</a><br><b>二维码解码(可在线调用)</b>:将二维码图片进行解码，解析处理——<a href="https://www.free-api.com/doc/299">接口地址</a><br><b>短网址生成(可在线调用)</b>:将长网址进行缩短，支持百度、新浪、腾讯短...——<a href="https://www.free-api.com/doc/300">接口地址</a><br><b>短网址还原(可在线调用)</b>:将缩短的短网址进行还原,支持常见的短网址——<a href="https://www.free-api.com/doc/301">接口地址</a><br><b>网易云音乐随机歌曲(可在线调用)</b>:网易云音乐，随机歌曲输出——<a href="https://www.free-api.com/doc/302">接口地址</a><br><b>获取访客相关信息(可在线调用)</b>:根据访客IP地址，操作系统，浏览器，访问...——<a href="https://www.free-api.com/doc/303">接口地址</a><br><b>随机头像输出(可在线调用)</b>:随机头像输出——<a href="https://www.free-api.com/doc/304">接口地址</a>
+
+
+----------
 努力添加中......
