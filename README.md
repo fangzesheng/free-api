@@ -49,4 +49,18 @@
 
 
 ----------
+
+
+2019.11.5更新接口
+
+
+----------
+
+
+<b>文章短篇</b>:根据日期获取一篇文章，有网上的，也有名家...——<a href="https://www.free-api.com/doc/305">接口地址</a><br><b>必应故事</b>:随机获取来自必应的故事，可根据pid获取...——<a href="https://www.free-api.com/doc/306">接口地址</a><br><b>每日一言</b>:获取来自一言、有道或金山词霸的每日一言内...——<a href="https://www.free-api.com/doc/307">接口地址</a><br><b>二维码解析</b>:还原二维码的原始URL，支持支付宝，微信...——<a href="https://www.free-api.com/doc/308">接口地址</a><br><b>生成海报</b>:根据提交的内容格式化生成可分享的精美海报——<a href="https://www.free-api.com/doc/309">接口地址</a><br><b>历史上的今天</b>:历史上的今天——<a href="https://www.free-api.com/doc/310">接口地址</a><br><b>生成二维码</b>:可根据传入的内容，生成对应的二维码，还可...——<a href="https://www.free-api.com/doc/311">接口地址</a><br><b>IP地址详情信息</b>:IP地址详情信息查询——<a href="https://www.free-api.com/doc/312">接口地址</a><br><b>XLS生成</b>:生成XLS——<a href="https://www.free-api.com/doc/313">接口地址</a><br><b>土味情话</b>:和妹妹说的情话，返回一句随机的内容——<a href="https://www.free-api.com/doc/314">接口地址</a><br><b>随机笑话(可在线调用)</b>:随机的笑话——<a href="https://www.free-api.com/doc/315">接口地址</a>
+
+
+----------
+
+
 努力添加中......
