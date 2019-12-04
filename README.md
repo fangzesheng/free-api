@@ -63,4 +63,15 @@
 ----------
 
 
+2019.12.4更新接口
+
+
+----------
+
+
+<b>经纬度信息(可在线调用)</b>:获取当前经纬度信息——<a href="https://www.free-api.com/doc/316">接口地址</a><br><b>历史上的今天(可在线调用)</b>:历史上的今天——<a href="https://www.free-api.com/doc/317">接口地址</a><br><b>Bing 壁纸获取(可在线调用)</b>:获取最近的Bing 壁纸——<a href="https://www.free-api.com/doc/318">接口地址</a><br><b>天气查询(可在线调用)</b>:获取今天和未来三天的天气情况，来源于高德——<a href="https://www.free-api.com/doc/319">接口地址</a><br><b>天气查询(可在线调用)</b>:根据城市名，获取今天和未来三天的天气情况...——<a href="https://www.free-api.com/doc/320">接口地址</a><br><b>天气查询(可在线调用)</b>:根据城市id，获取未来15天的天气情况，...——<a href="https://www.free-api.com/doc/321">接口地址</a><br><b>手机归属地查询(可在线调用)</b>:根据手机号码查询手机号的归属地信息——<a href="https://www.free-api.com/doc/322">接口地址</a><br><b>手机归属地查询</b>:根据手机号码查询手机号的归属地信息，来源...——<a href="https://www.free-api.com/doc/323">接口地址</a><br><b>IP域名归属地查询(可在线调用)</b>:查询IP或者域名归属地——<a href="https://www.free-api.com/doc/324">接口地址</a><br><b>身份证查询(可在线调用)</b>:根据身份证获取该身份证号码的籍贯，出生年...——<a href="https://www.free-api.com/doc/325">接口地址</a><br><b>淘宝关键字(可在线调用)</b>:淘宝搜索关键字——<a href="https://www.free-api.com/doc/326">接口地址</a><br><b>百度关键字</b>:百度搜索关键字——<a href="https://www.free-api.com/doc/327">接口地址</a><br><b>Bing关键字(可在线调用)</b>:Bing搜索关键字——<a href="https://www.free-api.com/doc/328">接口地址</a><br><b>获取用户设备信息(可在线调用)</b>:通过 user-agent 分析用户设备...——<a href="https://www.free-api.com/doc/329">接口地址</a><br><b>百度音乐搜索(可在线调用)</b>:根据关键字获取音乐的相关信息——<a href="https://www.free-api.com/doc/330">接口地址</a>
+
+
+----------
+
 努力添加中......
