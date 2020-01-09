@@ -74,4 +74,16 @@
 
 ----------
 
+
+2020.01.09更新接口
+
+
+----------
+
+
+<b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/331">接口地址</a><br><b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/332">接口地址</a><br><b>图灵机器人(可在线调用)</b>:基于图灵机器人平台语义理解、深度学习等核...——<a href="https://www.free-api.com/doc/333">接口地址</a><br><b>实况天气(可在线调用)</b>:根据城市信息获取其实况天气——<a href="https://www.free-api.com/doc/334">接口地址</a><br><b>3天天气预报(可在线调用)</b>:根据城市信息获取其3天天气预报——<a href="https://www.free-api.com/doc/335">接口地址</a><br><b>生活指数(可在线调用)</b>:根据城市信息获取其生活指数——<a href="https://www.free-api.com/doc/336">接口地址</a><br><b>空气质量(可在线调用)</b>:通过空气质量数据接口，可获取空气质量相关...——<a href="https://www.free-api.com/doc/337">接口地址</a><br><b>译云机器翻译</b>:译云机器翻译开放API是中译语通面向广大...——<a href="https://www.free-api.com/doc/338">接口地址</a>
+
+
+----------
+
 努力添加中......
