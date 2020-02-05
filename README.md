@@ -75,13 +75,25 @@
 ----------
 
 
-2020.01.09更新接口
+2020.1.9更新接口
 
 
 ----------
 
 
 <b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/331">接口地址</a><br><b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/332">接口地址</a><br><b>图灵机器人(可在线调用)</b>:基于图灵机器人平台语义理解、深度学习等核...——<a href="https://www.free-api.com/doc/333">接口地址</a><br><b>实况天气(可在线调用)</b>:根据城市信息获取其实况天气——<a href="https://www.free-api.com/doc/334">接口地址</a><br><b>3天天气预报(可在线调用)</b>:根据城市信息获取其3天天气预报——<a href="https://www.free-api.com/doc/335">接口地址</a><br><b>生活指数(可在线调用)</b>:根据城市信息获取其生活指数——<a href="https://www.free-api.com/doc/336">接口地址</a><br><b>空气质量(可在线调用)</b>:通过空气质量数据接口，可获取空气质量相关...——<a href="https://www.free-api.com/doc/337">接口地址</a><br><b>译云机器翻译</b>:译云机器翻译开放API是中译语通面向广大...——<a href="https://www.free-api.com/doc/338">接口地址</a>
+
+
+----------
+
+
+2020.2.5更新接口
+
+
+----------
+
+
+<b>汇率与货币兑换率(可在线调用)</b>:汇率API是针对欧洲中央银行发布的当前汇...——<a href="https://www.free-api.com/doc/339">接口地址</a><br><b>随机活动(可在线调用)</b>:寻找随机活动来对抗无聊，前提是你看明白英...——<a href="https://www.free-api.com/doc/340">接口地址</a><br><b>地点搜索(可在线调用)</b>:提供三类范围条件的搜索功能：  指定城市...——<a href="https://www.free-api.com/doc/341">接口地址</a><br><b>关键词输入提示(可在线调用)</b>:用于获取输入关键字的补完与提示，帮助用户...——<a href="https://www.free-api.com/doc/342">接口地址</a><br><b>坐标位置描述(可在线调用)</b>:本接口提供由坐标到坐标所在位置的文字描述...——<a href="https://www.free-api.com/doc/343">接口地址</a><br><b>地址转坐标(可在线调用)</b>:本接口提供由地址描述到所述位置坐标的转换...——<a href="https://www.free-api.com/doc/344">接口地址</a><br><b>行政区划</b>:本接口提供中国标准行政区划数据，可用于生...——<a href="https://www.free-api.com/doc/345">接口地址</a><br><b>距离计算（一对多）(可在线调用)</b>:本服务用于单起点到多终点，或多起点到单终...——<a href="https://www.free-api.com/doc/346">接口地址</a><br><b>距离矩阵（多对多）(可在线调用)</b>:距离矩阵（DistanceMatrix）...——<a href="https://www.free-api.com/doc/347">接口地址</a><br><b>坐标转换(可在线调用)</b>:实现从其它地图供应商坐标系或标准GPS坐...——<a href="https://www.free-api.com/doc/348">接口地址</a><br><b>IP定位(可在线调用)</b>:通过终端设备IP地址获取其当前所在地理位...——<a href="https://www.free-api.com/doc/349">接口地址</a>
 
 
 ----------
