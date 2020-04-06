@@ -110,4 +110,17 @@
 
 ----------
 
+
+2020.4.6更新接口
+
+
+----------
+
+
+<b>随机密码(可在线调用)</b>:自定义生成你需要的位数随机密码——<a href="https://www.free-api.com/doc/387">接口地址</a><br><b>QQ等级查询(可在线调用)</b>:查询任意qq号码的qq等级、q龄等信息——<a href="https://www.free-api.com/doc/388">接口地址</a><br><b>短网址链接生成(可在线调用)</b>:长网址缩短服务，支持新浪、微信、腾讯短网...——<a href="https://www.free-api.com/doc/389">接口地址</a><br><b>三合一收款码</b>:将支付宝、微信、企鹅收款集合到一起，省去...——<a href="https://www.free-api.com/doc/390">接口地址</a><br><b>垃圾分类(可在线调用)</b>:查询垃圾分类信息——<a href="https://www.free-api.com/doc/391">接口地址</a><br><b>网站背景图</b>:随机输出网站背景图片——<a href="https://www.free-api.com/doc/392">接口地址</a><br><b>二维码解码器(可在线调用)</b>:将带有二维码图片进行解析、解码处理——<a href="https://www.free-api.com/doc/393">接口地址</a>
+
+
+----------
+
+
 努力添加中......
