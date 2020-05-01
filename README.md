@@ -123,4 +123,16 @@
 ----------
 
 
+2020.5.1更新接口
+
+
+----------
+
+
+<b>随机输出头像图片</b>:随机输出高清头像图片，可以用在用户一开始...——<a href="https://www.free-api.com/doc/394">接口地址</a><br><b>搜狗高清壁纸</b>:通过搜狗搜索随机高清无码壁纸图片——<a href="https://www.free-api.com/doc/395">接口地址</a><br><b>天气预报查询(可在线调用)</b>:查询未来七天的天气预报信息——<a href="https://www.free-api.com/doc/396">接口地址</a><br><b>圆通快递查询(可在线调用)</b>:圆通快递物流轨迹信息查询——<a href="https://www.free-api.com/doc/397">接口地址</a><br><b>历史上的今天(可在线调用)</b>:获取历史上的今天信息——<a href="https://www.free-api.com/doc/398">接口地址</a><br><b>网易云音乐</b>:随机获取网易云音乐热门歌曲接口——<a href="https://www.free-api.com/doc/399">接口地址</a><br><b>网易云热评</b>:随机获取网易云音乐热门评论接口——<a href="https://www.free-api.com/doc/400">接口地址</a><br><b>随机语录</b>:随机输出一句经典语录——<a href="https://www.free-api.com/doc/401">接口地址</a><br><b>备案信息查询(可在线调用)</b>:根据域名查询ICP备案号及备案信息——<a href="https://www.free-api.com/doc/402">接口地址</a><br><b>域名注册查询(可在线调用)</b>:查询域名是否被注册或可否注册——<a href="https://www.free-api.com/doc/403">接口地址</a><br><b>中文翻译(可在线调用)</b>:支持中、英、日、韩等28种语言互译——<a href="https://www.free-api.com/doc/404">接口地址</a><br><b>获取访问信息(可在线调用)</b>:获取用户访问系统信息档——<a href="https://www.free-api.com/doc/405">接口地址</a><br><b>网页提示跳转</b>:来路验证和跳转提示功能的美化页面，支持手...——<a href="https://www.free-api.com/doc/406">接口地址</a>
+
+
+----------
+
+
 努力添加中......
