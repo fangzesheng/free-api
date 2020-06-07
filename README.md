@@ -135,4 +135,13 @@
 ----------
 
 
+2020.5.1更新接口
+
+
+----------
+
+
+<b>汇率转换(可在线调用)</b>:实时汇率查询，提供汇率转换、单个货币对应...——<a href="https://www.free-api.com/doc/407">接口地址</a><br><b>暂停申购基金(可在线调用)</b>:暂停基金的信息——<a href="https://www.free-api.com/doc/408">接口地址</a><br><b>彩票历史开奖结果查询(可在线调用)</b>:双色球、大乐透、七乐彩、七星彩、福彩3D——<a href="https://www.free-api.com/doc/409">接口地址</a><br><b>黄历查询(可在线调用)</b>:按年月日查询农历、星座、宜、忌、星期等黄...——<a href="https://www.free-api.com/doc/410">接口地址</a><br><b>火车车次查询</b>:提供全国火车票时刻查询、火车站站查询、火...——<a href="https://www.free-api.com/doc/411">接口地址</a><br><b>唐诗三百首(可在线调用)</b>:收录唐代诗人77家，共311首，包含解释...——<a href="https://www.free-api.com/doc/412">接口地址</a><br><b>暂停赎回基金(可在线调用)</b>:暂停赎回基金的信息——<a href="https://www.free-api.com/doc/413">接口地址</a><br><b>彩票开奖(可在线调用)</b>:提供福彩、体彩、地方彩票、高频彩票最新开...——<a href="https://www.free-api.com/doc/414">接口地址</a><br><b>手机号码归属地</b>:全国移动、联通、电信等手机号码归属地查询——<a href="https://www.free-api.com/doc/415">接口地址</a><br><b>宋词三百首</b>:收录宋代词人88家，词300首——<a href="https://www.free-api.com/doc/416">接口地址</a>
+
+
 努力添加中......
