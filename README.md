@@ -155,5 +155,13 @@
 
 <b>老黄历时辰(可在线调用)</b>:提供老黄历查询,黄历每日吉凶宜忌查询 ,...——<a href="https://www.free-api.com/doc/417">接口地址</a><br><b>标准体重计算器(可在线调用)</b>:通过身高和体重来计算您的身材是否是美少年...——<a href="https://www.free-api.com/doc/418">接口地址</a><br><b>基金财务数据(可在线调用)</b>:基金财务数据，基金API，基金接口，基金...——<a href="https://www.free-api.com/doc/419">接口地址</a><br><b>邮编区号(可在线调用)</b>:根据名称查询全国各地区的邮编以及区号——<a href="https://www.free-api.com/doc/420">接口地址</a><br><b>疾病治疗(可在线调用)</b>:根据症状与疾病的关键字查询治疗方案与了解...——<a href="https://www.free-api.com/doc/421">接口地址</a><br><b>手机号码归属地(可在线调用)</b>:根据手机号码或手机号码的前7位查询——<a href="https://www.free-api.com/doc/422">接口地址</a>
 
+2020.8.1更新接口
+
+
+----------
+
+
+<b>二维码生成(可在线调用)</b>:按照设定的参数、生成二维码——<a href="https://www.free-api.com/doc/423">接口地址</a><br><b>历史上的今天(可在线调用)</b>:回顾历史的长河，历史是生活的一面镜子——<a href="https://www.free-api.com/doc/424">接口地址</a><br><b>实时汇率查询换算(可在线调用)</b>:实时货币汇率查询换算，数据仅供参考，交易...——<a href="https://www.free-api.com/doc/425">接口地址</a><br><b>外汇汇率(可在线调用)</b>:以另一国货币来表示本国货币的价格，其高低...——<a href="https://www.free-api.com/doc/426">接口地址</a><br><b>万年历当年假期列表(可在线调用)</b>:根据传入年份返回当年假期列表——<a href="https://www.free-api.com/doc/427">接口地址</a><br><b>NBA常规赛赛程赛果查询(可在线调用)</b>:NBA赛事赛果相关信息——<a href="https://www.free-api.com/doc/428">接口地址</a><br><b>医院查询(可在线调用)</b>:根据省份查询医院的等级与类别——<a href="https://www.free-api.com/doc/429">接口地址</a>
+
 
 努力添加中......
