@@ -163,5 +163,12 @@
 
 <b>二维码生成(可在线调用)</b>:按照设定的参数、生成二维码——<a href="https://www.free-api.com/doc/423">接口地址</a><br><b>历史上的今天(可在线调用)</b>:回顾历史的长河，历史是生活的一面镜子——<a href="https://www.free-api.com/doc/424">接口地址</a><br><b>实时汇率查询换算(可在线调用)</b>:实时货币汇率查询换算，数据仅供参考，交易...——<a href="https://www.free-api.com/doc/425">接口地址</a><br><b>外汇汇率(可在线调用)</b>:以另一国货币来表示本国货币的价格，其高低...——<a href="https://www.free-api.com/doc/426">接口地址</a><br><b>万年历当年假期列表(可在线调用)</b>:根据传入年份返回当年假期列表——<a href="https://www.free-api.com/doc/427">接口地址</a><br><b>NBA常规赛赛程赛果查询(可在线调用)</b>:NBA赛事赛果相关信息——<a href="https://www.free-api.com/doc/428">接口地址</a><br><b>医院查询(可在线调用)</b>:根据省份查询医院的等级与类别——<a href="https://www.free-api.com/doc/429">接口地址</a>
 
+2020.9.6更新接口
+
+
+----------
+
+<b>图书电商数据(可在线调用)</b>:于万千之中选择你所爱--好书推荐，值得你...——<a href="https://www.free-api.com/doc/430">接口地址</a><br><b>周公解梦(可在线调用)</b>:周公解梦大全列举种种梦境,破解各种梦境并...——<a href="https://www.free-api.com/doc/431">接口地址</a><br><b>笑话大全(可在线调用)</b>:搜集网络幽默、搞笑、内涵段子，不间断更新——<a href="https://www.free-api.com/doc/432">接口地址</a><br><b>股票查询(可在线调用)</b>:提供沪深、香港、美国股市信息——<a href="https://www.free-api.com/doc/433">接口地址</a><br><b>IP地址查询(可在线调用)</b>:根据IP地址，返回详细查询结果——<a href="https://www.free-api.com/doc/434">接口地址</a><br><b>影视检索(可在线调用)</b>:影视信息播放链接检索——<a href="https://www.free-api.com/doc/435">接口地址</a><br><b>新冠全国疫情（新浪）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/436">接口地址</a><br><b>新冠全国疫情（136）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/437">接口地址</a><br><b>新冠全国疫情（腾讯）</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/438">接口地址</a>
+
 
 努力添加中......
