@@ -155,6 +155,10 @@
 
 <b>老黄历时辰(可在线调用)</b>:提供老黄历查询,黄历每日吉凶宜忌查询 ,...——<a href="https://www.free-api.com/doc/417">接口地址</a><br><b>标准体重计算器(可在线调用)</b>:通过身高和体重来计算您的身材是否是美少年...——<a href="https://www.free-api.com/doc/418">接口地址</a><br><b>基金财务数据(可在线调用)</b>:基金财务数据，基金API，基金接口，基金...——<a href="https://www.free-api.com/doc/419">接口地址</a><br><b>邮编区号(可在线调用)</b>:根据名称查询全国各地区的邮编以及区号——<a href="https://www.free-api.com/doc/420">接口地址</a><br><b>疾病治疗(可在线调用)</b>:根据症状与疾病的关键字查询治疗方案与了解...——<a href="https://www.free-api.com/doc/421">接口地址</a><br><b>手机号码归属地(可在线调用)</b>:根据手机号码或手机号码的前7位查询——<a href="https://www.free-api.com/doc/422">接口地址</a>
 
+
+----------
+
+
 2020.8.1更新接口
 
 
@@ -163,10 +167,26 @@
 
 <b>二维码生成(可在线调用)</b>:按照设定的参数、生成二维码——<a href="https://www.free-api.com/doc/423">接口地址</a><br><b>历史上的今天(可在线调用)</b>:回顾历史的长河，历史是生活的一面镜子——<a href="https://www.free-api.com/doc/424">接口地址</a><br><b>实时汇率查询换算(可在线调用)</b>:实时货币汇率查询换算，数据仅供参考，交易...——<a href="https://www.free-api.com/doc/425">接口地址</a><br><b>外汇汇率(可在线调用)</b>:以另一国货币来表示本国货币的价格，其高低...——<a href="https://www.free-api.com/doc/426">接口地址</a><br><b>万年历当年假期列表(可在线调用)</b>:根据传入年份返回当年假期列表——<a href="https://www.free-api.com/doc/427">接口地址</a><br><b>NBA常规赛赛程赛果查询(可在线调用)</b>:NBA赛事赛果相关信息——<a href="https://www.free-api.com/doc/428">接口地址</a><br><b>医院查询(可在线调用)</b>:根据省份查询医院的等级与类别——<a href="https://www.free-api.com/doc/429">接口地址</a>
 
+
+----------
+
+
 2020.9.6更新接口
 
 
 ----------
+
+<b>人脸检测分析(可在线调用)</b>:传入图片进行人脸检测和人脸分析。  可以...——<a href="https://www.free-api.com/doc/439">接口地址</a><br><b>人脸比对(可在线调用)</b>:将两个人脸进行比对，来判断是否为同一个人...——<a href="https://www.free-api.com/doc/440">接口地址</a><br><b>人脸搜索(可在线调用)</b>:在一个已有的 FaceSet 中找出与目...——<a href="https://www.free-api.com/doc/441">接口地址</a><br><b>人脸美颜(可在线调用)</b>:对图片进行美颜和美白——<a href="https://www.free-api.com/doc/442">接口地址</a><br><b>人脸PS(可在线调用)</b>:支持对图片中人像进行对美颜美型处理，以及...——<a href="https://www.free-api.com/doc/443">接口地址</a><br><b>稠密关键点(可在线调用)</b>:传入图片或是从 Detect API 检...——<a href="https://www.free-api.com/doc/444">接口地址</a><br><b>面部特征分析(可在线调用)</b>:根据单张正面人脸图片，分析人脸面部特征——<a href="https://www.free-api.com/doc/445">接口地址</a><br><b>皮肤分析(可在线调用)</b>:可对人脸图片，进行面部皮肤状态检测分析——<a href="https://www.free-api.com/doc/446">接口地址</a><br><b>3D人脸重建(可在线调用)</b>:根据单张或多张单人人脸图片，重建3D人脸...——<a href="https://www.free-api.com/doc/447">接口地址</a>
+
+
+----------
+
+
+2020.10.11更新接口
+
+
+----------
+
 
 <b>图书电商数据(可在线调用)</b>:于万千之中选择你所爱--好书推荐，值得你...——<a href="https://www.free-api.com/doc/430">接口地址</a><br><b>周公解梦(可在线调用)</b>:周公解梦大全列举种种梦境,破解各种梦境并...——<a href="https://www.free-api.com/doc/431">接口地址</a><br><b>笑话大全(可在线调用)</b>:搜集网络幽默、搞笑、内涵段子，不间断更新——<a href="https://www.free-api.com/doc/432">接口地址</a><br><b>股票查询(可在线调用)</b>:提供沪深、香港、美国股市信息——<a href="https://www.free-api.com/doc/433">接口地址</a><br><b>IP地址查询(可在线调用)</b>:根据IP地址，返回详细查询结果——<a href="https://www.free-api.com/doc/434">接口地址</a><br><b>影视检索(可在线调用)</b>:影视信息播放链接检索——<a href="https://www.free-api.com/doc/435">接口地址</a><br><b>新冠全国疫情（新浪）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/436">接口地址</a><br><b>新冠全国疫情（136）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/437">接口地址</a><br><b>新冠全国疫情（腾讯）</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/438">接口地址</a>
 
