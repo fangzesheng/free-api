@@ -191,4 +191,16 @@
 <b>图书电商数据(可在线调用)</b>:于万千之中选择你所爱--好书推荐，值得你...——<a href="https://www.free-api.com/doc/430">接口地址</a><br><b>周公解梦(可在线调用)</b>:周公解梦大全列举种种梦境,破解各种梦境并...——<a href="https://www.free-api.com/doc/431">接口地址</a><br><b>笑话大全(可在线调用)</b>:搜集网络幽默、搞笑、内涵段子，不间断更新——<a href="https://www.free-api.com/doc/432">接口地址</a><br><b>股票查询(可在线调用)</b>:提供沪深、香港、美国股市信息——<a href="https://www.free-api.com/doc/433">接口地址</a><br><b>IP地址查询(可在线调用)</b>:根据IP地址，返回详细查询结果——<a href="https://www.free-api.com/doc/434">接口地址</a><br><b>影视检索(可在线调用)</b>:影视信息播放链接检索——<a href="https://www.free-api.com/doc/435">接口地址</a><br><b>新冠全国疫情（新浪）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/436">接口地址</a><br><b>新冠全国疫情（136）(可在线调用)</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/437">接口地址</a><br><b>新冠全国疫情（腾讯）</b>:新型冠状病毒全国疫情，包括到具体的县市区...——<a href="https://www.free-api.com/doc/438">接口地址</a>
 
 
+----------
+
+
+2020.11.1更新接口
+
+
+----------
+
+
+<b>人脸检测分析(可在线调用)</b>:传入图片进行人脸检测和人脸分析。  可以...——<a href="https://www.free-api.com/doc/439">接口地址</a><br><b>人脸比对(可在线调用)</b>:将两个人脸进行比对，来判断是否为同一个人...——<a href="https://www.free-api.com/doc/440">接口地址</a><br><b>人脸搜索(可在线调用)</b>:在一个已有的 FaceSet 中找出与目...——<a href="https://www.free-api.com/doc/441">接口地址</a><br><b>人脸美颜(可在线调用)</b>:对图片进行美颜和美白——<a href="https://www.free-api.com/doc/442">接口地址</a><br><b>人脸PS(可在线调用)</b>:支持对图片中人像进行对美颜美型处理，以及...——<a href="https://www.free-api.com/doc/443">接口地址</a><br><b>稠密关键点(可在线调用)</b>:传入图片或是从 Detect API 检...——<a href="https://www.free-api.com/doc/444">接口地址</a><br><b>面部特征分析(可在线调用)</b>:根据单张正面人脸图片，分析人脸面部特征——<a href="https://www.free-api.com/doc/445">接口地址</a><br><b>皮肤分析(可在线调用)</b>:可对人脸图片，进行面部皮肤状态检测分析——<a href="https://www.free-api.com/doc/446">接口地址</a><br><b>3D人脸重建(可在线调用)</b>:根据单张或多张单人人脸图片，重建3D人脸...——<a href="https://www.free-api.com/doc/447">接口地址</a><br><b>人体检测属性分析(可在线调用)</b>:传入图片进行人体检测和人体属性分析。  ...——<a href="https://www.free-api.com/doc/448">接口地址</a><br><b>人体关键点检测(可在线调用)</b>:传入图片进行人体检测和骨骼关键点检测，返...——<a href="https://www.free-api.com/doc/449">接口地址</a><br><b>人形抠像(可在线调用)</b>:识别传入图片中人体的完整轮廓，进行人形抠...——<a href="https://www.free-api.com/doc/450">接口地址</a><br><b>手势识别(可在线调用)</b>:调用者提供图片URL，检测图片中出现的所...——<a href="https://www.free-api.com/doc/451">接口地址</a><br><b>身份证识别(可在线调用)</b>:检测和识别中华人民共和国第二代身份证的关...——<a href="https://www.free-api.com/doc/452">接口地址</a><br><b>驾照主页识别(可在线调用)</b>:检测和识别中华人民共和国机动车驾驶证（以...——<a href="https://www.free-api.com/doc/453">接口地址</a><br><b>驾照正反面识别(可在线调用)</b>:检测和识别中华人民共和国机动车驾驶证（以...——<a href="https://www.free-api.com/doc/454">接口地址</a><br><b>行驶证识别(可在线调用)</b>:检测和识别中华人民共和国机动车行驶证（以...——<a href="https://www.free-api.com/doc/455">接口地址</a><br><b>银行卡识别(可在线调用)</b>:检测和识别各类银行卡，并返回银行卡卡片边...——<a href="https://www.free-api.com/doc/456">接口地址</a><br><b>模板识别(可在线调用)</b>:用户通过控制台生成自定义模板并发布后，调...——<a href="https://www.free-api.com/doc/457">接口地址</a>
+
+
 努力添加中......
