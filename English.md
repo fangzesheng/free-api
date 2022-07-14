@@ -452,3 +452,49 @@
 - **<a id="294">15-day weather forecast<a/>:** Use the city ID to accurately query the weather within 15 days, then connect to... [Interface address](https://www.free-api.com/doc/294)
 - **<a id="293">Domain name registration<a/>:** Query the domain name registration status according to the domain name [interface address](https://www.free-api.com/doc/293)
 - **<a id="292">Global IP geolocation<a/>(can be called online):** a single IPv4/IPv6 address or domain name... [interface address](https://www.free-api.com/doc/292)
+
+# 2019-10-08
+
+#### The updated interfaces this month are: [Get file conversion content](#291), [File conversion](#290), [Express query](#289), [Non-Baidu coordinate system conversion](#288 ). ](#283), [Driving Route Planning](#282), [Cycling Route Planning](#281), [Bus Route Planning](#280), [Global Inverse Geocoding](#279), [Geography Coding Service](#278), [Location input prompt](#277), [Location details search](#276), [Rectangular area search](#275), [Circular area search](#274), [ Administrative division area search](#273).
+
+- **<a id="291">Get the file conversion content<a/>:** According to the id obtained from the successful file conversion, the query is converted into... [Interface address](https://www.free-api.com/doc/291)
+- **<a id="290">File conversion<a/>:** Convert the file to the specified format, if successful, it will return the successfully converted... [Interface address](https://www.free-api.com/doc/290)
+- **<a id="289">Express query<a/>:** You can query the express mail of most mainstream express delivery according to the express tracking number... [Interface address](https://www.free-api.com/doc/289)
+- **<a id="288">Non-Baidu coordinate system conversion<a/>(can be called online):** Users can use this service to realize non-Baidu coordinate system → 100... [Interface Address](https://www.free-api.com/doc/288)
+- **<a id="287">Around pick-up point recommendation<a/>(can be called online):** The user can retrieve the pick-up point around the coordinate point through this function. ... [interface address](https://www.free-api.com/doc/287)
+- **<a id="286">Time offset query<a/>(can be called online):** Query the time offset information of the coordinate location and UTC... [Interface address](https://www.free-api.com/doc/286)
+- **<a id="285">Road real-time traffic condition query<a/>(can be called online):** Query the real-time congestion evaluation of specific roads, congested sections, congestion... [Interface address](https://www.free-api.com/doc/285)
+- **<a id="284">Ordinary IP positioning<a/>(can be called online):** Users can use this service to obtain large... [Interface address](https:// www.free-api.com/doc/284)
+- **<a id="283">Batch route calculation<a/>:** Users can use this service to calculate according to the coordinates of the starting and ending points... [Interface address](https://www.free-api.com/doc/283)
+- **<a id="282">Driving route planning<a/>(can be called online):** Retrieve the qualified driving route planning according to the coordinates of the starting and ending point... [Interface address](https://www.free-api.com/doc/282)
+- **<a id="281">Cycling route planning<a/>(can be called online):** Retrieve the qualified cycling route planning according to the coordinates of the starting and ending point... [Interface address](https://www.free-api.com/doc/281)
+- **<a id="280">Bus route planning<a/>(can be called online):** Retrieve eligible public transport plans based on start and end points... [Interface address](https://www.free-api.com/doc/280)
+- **<a id="279">Global inverse geocoding<a/>(can be called online):** Users can use this function to parse the location coordinates into corresponding... [Interface Address](https://www.free-api.com/doc/279)
+- **<a id="278">Geocoding service<a/>(can be called online):** Users can use this function to convert structured addresses (province/city/... [interface address](https://www.free-api.com/doc/278)
+- **<a id="277">Location input prompt<a/>(can be called online):** Users can use this service to match the location where the user enters keywords... [Interface Address](https://www.free-api.com/doc/277)
+- **<a id="276">Location Details Retrieval<a/>(can be called online):** Location Details Retrieval is for a specified POI, and its related... [Interface address](https://www.free-api.com/doc/276)
+- **<a id="275">Rectangular area retrieval<a/>(can be called online):** Developers can set the coordinates of the lower left corner and upper right corner of the retrieval area,... [Interface address](https://www.free-api.com/doc/275)
+- **<a id="274">Circular area search<a/>(can be called online):** Developers can set the center and radius to search the circular area... [Interface address](https://www.free-api.com/doc/274)
+- **<a id="273">Administrative division area retrieval<a/>(can be called online):** Developers can use this function to search within an administrative division (... [interface address](https://www.free-api.com/doc/273)
+
+# 2019-09-09
+
+#### The updated interfaces this month are: [Location Range Query](#272), [IP Positioning](#271), [Weather Query](#270), [Input Prompt](#269), [Specify Line traffic situation](#268), [circular area traffic situation](#267), [rectangular area traffic situation](#266), [administrative area query](#265), [distance measurement](#264) , [cycling path planning](#263), [transit path planning](#262), [driving path planning](#261), [walking path planning](#260), [inverse geocoding](#259 ), [Geocode](#258), [360ip](#257), [Taobao ip](#256).
+
+- **<a id="272">Location range query<a/>(can be called online):** According to latitude and longitude query to query its address related information [interface address](https://www.free-api.com/doc/272)
+- **<a id="271">IP positioning<a/>(can be called online):** Convert IP information to geographic location information [interface address](https://www.free-api.com/doc/271)
+- **<a id="270">Weather query<a/>(can be called online):** Query the current/future weather conditions in the target area [interface address](https://www.free-api.com/doc/270)
+- **<a id="269">Input prompt<a/>(can be called online):** Provide a list of suggestions returned according to the keyword query entered by the user [interface address](https://www.free-api.com/doc/269)
+- **<a id="268">Specified line traffic situation<a/>:** Able to determine the specified line traffic situation, traffic information for 2 minutes... [Interface address](https://www.free-api.com/doc/268)
+- **<a id="267">Circular area traffic situation<a/>:** Able to determine circular traffic situation, traffic information for 2 minutes... [Interface address](https://www.free -api.com/doc/267)
+- **<a id="266">Rectangular area traffic situation<a/>:** Able to determine the rectangular traffic situation, traffic information for 2 minutes... [Interface address](https://www.free-api.com/doc/266)
+- **<a id="265">Administrative area query<a/>(can be called online):** According to the search criteria entered by the user, it can help users quickly... [Interface address](https://www.free-api.com/doc/265)
+- **<a id="264">distance measurement<a/>:** Measure distance according to latitude and longitude [interface address](https://www.free-api.com/doc/264)
+- **<a id="263">Cycling route planning<a/>(can be called online):** Used to plan cycling and commuting plans, without considering road conditions... [Interface address](https://www.free-api.com/doc/263)
+- **<a id="262">Bus route planning<a/>:** Planning and comprehensive public (train, bus, subway) transportation... [Interface address](https://www.free-api.com/doc/262)
+- **<a id="261">Driving route planning<a/>(can be called online):** Plan the commuting plan by passenger car and car, and return to... [Interface Address](https://www.free-api.com/doc/261)
+- **<a id="260">Walking Path Planning<a/>:** You can plan a walking commuting plan within 100KM, and... [Interface address](https://www.free-api.com/doc/260)
+- **<a id="259">Reverse geocoding<a/>(can be called online):** Convert the latitude and longitude into a detailed structured address, and return the attached... [Interface address](https://www.free-api.com/doc/259)
+- **<a id="258">Geocoding<a/>(can be called online):** Convert the detailed structured address to Gaode latitude and longitude coordinates. ... [interface address](https://www.free-api.com/doc/258)
+- **<a id="257">360ip<a/>(can be called online):** ip query from 360, you can check according to ip address... [Interface Address](https://www.free-api.com/doc/257)
+- **<a id="256">Taobao ip<a/>(can be called online):** The ip query from Taobao can be queried according to the ip address... [Interface Address](https://www.free-api.com/doc/256)
