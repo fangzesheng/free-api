@@ -281,3 +281,48 @@
 - **<a id="419">Fund financial data<a/>(can be called online):** Fund financial data, fund API, fund interface, fund... [Interface address](https://www.free-api.com/doc/419)
 - **<a id="418">Standard Weight Calculator<a/>(can be called online):** Calculate whether your body is a beautiful teenager through height and weight... [Interface Address](https://www.free-api.com/doc/418)
 - **<a id="417">Laohuang calendar time<a/>(can be called online):** Provide Laohuang calendar query, daily auspicious and ominous and taboo query,... [Interface address](https://www.free-api.com/doc/417)
+
+# 2020-06-07
+
+#### The updated interfaces this month are: [Three Hundred Song Poems](#416), [Location of Mobile Phone Number](#415), [Lottery Draw](#414), [Suspended Redemption Fund](#413), [Three Hundred Poems of Tang Dynasty](#412), [Train Number Query](#411), [Yellow Calendar Query](#410), [Lottery History Lottery Results Query](#409), [Suspended Subscription Fund](#408), [Exchange Rate Conversion](#407).
+
+- **<a id="416">300 Song Poems<a/>:** Contains 88 Song Dynasty Poetry writers and 300 Poems [Interface address](https://www.free-api.com/doc/416)
+- **<a id="415">Mobile phone number attribution<a/>:** National Mobile, Unicom, Telecom and other mobile phone number attribution query [interface address](https://www.free-api.com/doc/415)
+- **<a id="414">Lottery lottery draw<a/>(can be called online):** Provide the latest opening of welfare lottery, sports lottery, local lottery and high-frequency lottery... [Interface address](https://www.free-api.com/doc/414)
+- **<a id="413">Suspended redemption funds<a/>(can be called online):** Information on suspended redemption funds [interface address](https://www.free-api.com/doc/413)
+- **<a id="412">Three hundred Tang Poems<a/>(can be called online):** Contains 77 Tang Dynasty poets, a total of 311 poems, including explanations... [Interface Address](https://www.free-api.com/doc/412)
+- **<a id="411">Train number query<a/>:** Provides national train ticket time query, railway station query, fire... [Interface address](https://www.free-api.com/doc/411)
+- **<a id="410">Yellow calendar query<a/>(can be called online):** Query the lunar calendar, constellation, suitable, taboo, week and other yellows by year, month and day... [Interface address](httpshttps://www.free-api.com/doc/410)
+- **<a id="409">Lottery historical lottery result query<a/>(can be called online):** Two-color ball, Big Lotto, Qile Cai, Qixing Cai, Fu Cai 3D [interface address](https://www.free-api.com/doc/409)
+- **<a id="408">Suspended fund subscription<a/>(can be called online):** Information on suspended funds [interface address](https://www.free-api.com/doc/408 )
+- **<a id="407">Exchange rate conversion<a/>(can be called online):** Real-time exchange rate query, providing exchange rate conversion, single currency correspondence... [Interface address](https://www.free-api.com/doc/407)
+
+# 2020-05-01
+
+#### The updated interfaces this month are: [Webpage prompt jump](#406), [Get access information](#405), [Chinese translation](#404), [Domain name registration query](#403) , [Record information query](#402), [Random quotations](#401), [Netease cloud hot comment](#400), [Netease cloud music](#399), [today in history](#398 ), [Yuantong Express query](#397), [Weather forecast query](#396), [Sogou HD wallpaper](#395), [Random output avatar image](#394).
+
+- **<a id="406">Webpage prompt redirection<a/>:** The beautification page of the incoming verification and redirection prompt function, supports hand... [Interface address](https://www.free-api.com/doc/406)
+- **<a id="405">Get access information<a/>(can be called online):** Get user access system information file [interface address](https://www.free-api.com/doc/405)
+- **<a id="404">Chinese translation<a/>(can be called online):** Supports translation in 28 languages ​​including Chinese, English, Japanese and Korean [interface address](https://www.free-api.com/doc/404)
+- **<a id="403">Domain name registration query<a/>(can be called online):** Query whether the domain name is registered or can be registered [interface address](https://www.free-api.com/doc/403)
+- **<a id="402">Record information query<a/>(can be called online):** Query the ICP record number and record information according to the domain name [interface address](https://www.free-api.com/doc/402)
+- **<a id="401">Random Quotations<a/>:** Randomly output a classic quotation [Interface address](https://www.free-api.com/doc/401)
+- **<a id="400">NetEase Cloud Hot Comments<a/>:** Randomly obtain the NetEase Cloud Music Hot Comments interface [interface address](https://www.free-api.com/doc/400)
+- **<a id="399">NetEase Cloud Music<a/>:** Randomly obtain the interface of NetEase Cloud Music popular songs [interface address](https://www.free-api.com/doc/399)
+- **<a id="398">Today in history<a/>(can be called online):** Get today's information in history [interface address](https://www.free-api.com/doc/398)
+- **<a id="397">YTO Express query<a/>(can be called online):** YTO Express logistics track information query [interface address](https://www.free-api.com/doc/397)
+- **<a id="396">Weather forecast query<a/>(can be called online):** Query the weather forecast information for the next seven days [interface address](https://www.free-api.com/doc/396)
+- **<a id="395">Sogou HD Wallpaper<a/>:** Search for random high-definition uncensored wallpaper pictures through Sogou [Interface Address](https://www.free-api.com/doc/395)
+- **<a id="394">Randomly output avatar image<a/>:** Randomly output high-definition avatar image, which can be used at the beginning of the user... [Interface address](https://www.free-api.com/doc/394)
+
+# 2020-04-06
+
+#### The updated interfaces this month are: [QR Code Decoder](#393), [Website Background Image](#392), [Garbage Sorting](#391), [3-in-1 Payment Code](#390), [Short URL link generation](#389), [QQ level query](#388), [Random password](#387).
+
+- **<a id="393">QR code decoder<a/>(can be called online):** Parse and decode pictures with QR code [interface address](https://www.free-api.com/doc/393)
+- **<a id="392">Website background image<a/>:** Random output website background image [Interface address](https://www.free-api.com/doc/392)
+- **<a id="391">Garbage classification<a/>(can be called online):** Query garbage classification information [interface address](https://www.free-api.com/doc/391)
+- **<a id="390">Three-in-one payment code<a/>:** Combine Alipay, WeChat, and Penguin collections together, save... [Interface address](https://www.free-api.com/doc/390)
+- **<a id="389">Short URL link generation<a/>(can be called online):** Long URL shortening service, support Sina, WeChat, Tencent short network... [Interface address](https://www.free-api.com/doc/389)
+- **<a id="388">QQ rank query<a/>(can be called online):** Query the qq rank, q age and other information of any qq number [interface address](https://www.free-api.com/doc/388)
+- **<a id="387">Random password<a/>(can be called online):** Customize the random password of the digits you need [interface address](https://www.free-api.com/doc/387)
