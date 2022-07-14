@@ -6,6 +6,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+#
+## README Translation
+- [简体中文](/README.md)
+#
 # 2022-07-04
 
 ### The interfaces updated this month are: [Daily Funny Jokes](#567), [Visitor IP](#566), [Recent holidays](#565), [Lottery winning numbers](#564).

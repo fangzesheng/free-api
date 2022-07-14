@@ -6,6 +6,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+#
+## README Translation
+- [English](/English.md)
+#
 # 2022-07-04
 
 ### 本月更新的接口有：[每日搞笑段子](#567)，[来访者 IP](#566)，[最近节假日](#565)，[彩票中奖号码](#564)。
