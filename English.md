@@ -399,3 +399,52 @@
 - **<a id="333">Turing Robot<a/>(Available Online):** Based on Turing Robot Platform Semantic Understanding, Deep Learning and other cores... [API](https://www.free-api.com/doc/333)
 - **<a id="332">Mobile number attribution<a/>:** Free mobile number attribution API query interface, from... [API](https://www.free-api.com/doc/332)
 - **<a id="331">Mobile number attribution<a/>:** Free mobile number attribution API query interface, from... [API](https://www.free-api.com/doc/331)
+
+# 2019-12-04
+
+#### The updated interfaces this month are: [Baidu Music Search](#330), [Get user device information](#329), [Bing keywords](#328), [Baidu keywords](#327 ), [Taobao keyword](#326), [ID card query](#325), [IP domain name attribution query](#324), [mobile phone attribution query](#323), [mobile phone attribution query] ](#322), [Weather Query](#321), [Weather Query](#320), [Weather Query](#319), [Bing Wallpaper Acquisition](#318), [Today in History]( #317), [latitude and longitude information](#316), [random joke](#315), [earth flavor](#314), [XLS generation](#313), [IP address details](#312 ), [Generate QR Code](#311), [Today in History](#310), [Generate Poster](#309), [QR Code Analysis](#308), [Daily Word](#307), [Bing Story](#306), [Short Article](#305).
+
+- **<a id="330">Baidu Music Search<a/>(can be called online):** Obtain music related information based on keywords [interface address](https://www.free-api.com/doc/330)
+- **<a id="329">Get user equipment information<a/>(can be called online):** Analyze user equipment through user-agent... [Interface address](https://www.free-api.com/doc/329)
+- **<a id="328">Bing keyword<a/>(can be called online):** Bing search keyword [interface address](https://www.free-api.com/doc/328 )
+- **<a id="327">Baidu keywords<a/>:** Baidu search keywords [interface address](https://www.free-api.com/doc/327)
+- **<a id="326">Taobao keyword<a/>(can be called online):** Taobao search keyword [interface address](https://www.free-api.com/doc/326 )
+- **<a id="325">ID card query<a/>(can be called online):** Obtain the origin and birth year of the ID card number according to the ID card... [Interface address](https://www.free-api.com/doc/325)
+- **<a id="324">IP domain name attribution query<a/>(can be called online):** Query IP or domain name attribution [interface address](https://www.free-api.com/doc/324)
+- **<a id="323">Mobile phone attribution query<a/>:** Query the attribution information of the mobile phone number according to the mobile phone number, the source... [Interface address](https://www.free-api.com/doc/323)
+- **<a id="322">Mobile phone attribution query<a/>(can be called online):** Query the attribution information of the mobile phone number according to the mobile phone number [interface address](https://www.free-api.com/doc/322)
+- **<a id="321">Weather query<a/>(can be called online):** According to the city id, get the weather conditions for the next 15 days,... [Interface address](https://www.free-api.com/doc/321)
+- **<a id="320">Weather query<a/>(can be called online):** According to the city name, get the weather conditions of today and the next three days... [Interface address](https://www.free-api.com/doc/320)
+- **<a id="319">Weather query<a/>(can be called online):** Get the weather conditions for today and the next three days, from AutoNavi [interface address](https://www.free-api.com/doc/319)
+- **<a id="318">Bing wallpaper acquisition<a/>(can be called online):** Get the latest Bing wallpaper [interface address](https://www.free-api.com/doc/318)
+- **<a id="317">Today in History<a/>(can be called online):** Today in History [Interface Address](https://www.free-api.com/doc/317)
+- **<a id="316">Longitude and latitude information<a/>(can be called online):** Get current latitude and longitude information [Interface address](https://www.free-api.com/doc/316)
+- **<a id="315">Random joke<a/>(can be called online):** Random joke [interface address](https://www.free-api.com/doc/315)
+- **<a id="314">Early Love Words<a/>:** Love words with my sister, return a random content [interface address](https://www.free-api.com/doc/314)
+- **<a id="313">XLS Generate<a/>:** Generate XLS [Interface Address](https://www.free-api.com/doc/313)
+- **<a id="312">IP address details<a/>:** IP address details query [interface address](https://www.free-api.com/doc/312)
+- **<a id="311">Generate QR code<a/>:** According to the incoming content, the corresponding QR code can be generated, and you can also... [Interface address](https://www.free-api.com/doc/311)
+- **<a id="310">Today in History<a/>:** Today in History [Interface Address](https://www.free-api.com/doc/310)
+- **<a id="309">Generate poster<a/>:** Formatting and generating beautiful posters that can be shared according to the submitted content [interface address](https://www.free-api.com/doc/309)
+- **<a id="308">QR code analysis<a/>:** Restore the original URL of the QR code, support Alipay, WeChat... [Interface address](https://www.free-api.com/doc/308)
+- **<a id="307">Daily Yiyan<a/>:** Get the Daily Yiyan from Yiyan, Youdao or Kingsoft PowerWord... [Interface Address](https://www.free-api.com/doc/307)
+- **<a id="306">Bing Stories<a/>:** Randomly get stories from Bing, which can be obtained according to pid... [Interface address](https://www.free-api.com/doc/306)
+- **<a id="305">article short story<a/>:** Get an article according to the date, some online, some famous... [Interface address](https://www.free-api.com/doc/305)
+
+# 2019-11-05
+
+#### The updated interfaces this month are: [Random Avatar Output](#304), [Get Visitor Related Information](#303), [Netease Cloud Music Random Songs](#302), [Short URL Restoration]( #301), [Short URL Generation](#300), [QR Code Decoding](#299), [QR Code Generation](#298), [3-in-1 Payment QR Code](#297) , [ICP filing query](#296), [Lunar calendar query](#295), [15-day weather forecast](#294), [Domain name filing](#293), [Global IP location](#292 ).
+
+- **<a id="304">Random avatar output<a/>(can be called online):** Random avatar output [interface address](https://www.free-api.com/doc/304)
+- **<a id="303">Get visitor related information<a/>(can be called online):** According to visitor IP address, operating system, browser, access... [Interface address](https://www.free-api.com/doc/303)
+- **<a id="302">NetEase Cloud Music Random Songs<a/>(can be called online):** NetEase Cloud Music, random song output [interface address](https://www.free-api.com/doc/302)
+- **<a id="301">Short URL restoration<a/>(can be called online):** Restore the shortened URL, support common short URL [interface address](https://www.free-api.com/doc/301)
+- **<a id="300">Short URL generation<a/>(can be called online):** Shorten long URLs, support Baidu, Sina, Tencent short... [Interface address](https://www.free-api.com/doc/300)
+- **<a id="299">QR code decoding<a/>(can be called online):** Decode the QR code image, parse and process [interface address](https://www.free-api.com/doc/299)
+- **<a id="298">QR code generation<a/>:** Convert the URL directly into a QR code image [interface address](https://www.free-api.com/doc/298)
+- **<a id="297">Three-in-one payment QR code<a/>:** Integrate QQ, WeChat and Alipay collections together, save... [Interface Address](https://www.free-api.com/doc/297)
+- **<a id="296">ICP record query<a/>(can be called online):** Query the ICP record number according to the domain name [interface address](https://www.free-api.com/doc/296)
+- **<a id="295">Lunar calendar query<a/>(can be called online):** Get lunar calendar, almanac, taboo, week, zodiac according to date... [Interface address](https://www.free-api.com/doc/295)
+- **<a id="294">15-day weather forecast<a/>:** Use the city ID to accurately query the weather within 15 days, then connect to... [Interface address](https://www.free-api.com/doc/294)
+- **<a id="293">Domain name registration<a/>:** Query the domain name registration status according to the domain name [interface address](https://www.free-api.com/doc/293)
+- **<a id="292">Global IP geolocation<a/>(can be called online):** a single IPv4/IPv6 address or domain name... [interface address](https://www.free-api.com/doc/292)
