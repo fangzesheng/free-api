@@ -230,3 +230,54 @@
 - **<a id="450">Human shape keying<a/>(Available Online):** Identify the complete outline of the human body in the incoming picture, and perform human shape keying... [API](https://www.free-api.com/doc/450)
 - **<a id="449">Human body key point detection<a/>(Available Online):** Enter the image for human body detection and bone key point detection, return... [API](https://www.free-api.com/doc/449)
 - **<a id="448">Analysis of human body detection attributes<a/>(Available Online):** Incoming pictures are used for human body detection and human body attribute analysis. ... [API](https://www.free-api.com/doc/448)
+
+# 2020-10-11
+
+#### The interfaces updated this month are: [3D Face Reconstruction](#447), [Skin Analysis](#446), [Facial Feature Analysis](#445), [Dense Keypoints](#444) , [Face PS](#443), [Face Beauty](#442), [Face Search](#441), [Face Comparison](#440), [Face Detection Analysis]( #439).
+
+- **<a id="447">3D face reconstruction<a/>(can be called online):** According to single or multiple single face pictures, reconstruct 3D face... [Interface address](https://www.free-api.com/doc/447)
+- **<a id="446">Skin analysis<a/>(can be called online):** Can perform facial skin status detection and analysis on face pictures [interface address](https://www.free-api.com/doc/446)
+- **<a id="445">Facial feature analysis<a/>(can be called online):** According to a single frontal face picture, analyze the facial features of the face [interface address](https://www.free-api.com/doc/445)
+- **<a id="444">Dense key points<a/>(can be called online):** Pass in a picture or check from the Detect API... [Interface address](https://www.free-api.com/doc/444)
+- **<a id="443">Facial PS<a/>(can be called online):** Supports the beauty and shape processing of the portraits in the picture, and... [Interface Address](https://www.free-api.com/doc/443)
+- **<a id="442">Face Beauty<a/>(can be called online):** Beauty and whitening of pictures [interface address](https://www.free-api.com/doc/442)
+- **<a id="441">Face search<a/>(can be called online):** Find the target in an existing FaceSet... [Interface address](https://www.free-api.com/doc/441)
+- **<a id="440">Face comparison<a/>(can be called online):** Compare two faces to determine whether they are the same person... [Interface address](httpshttps://www.free-api.com/doc/440)
+- **<a id="439">Face detection and analysis<a/>(can be called online):** Input image for face detection and face analysis. Can... [Interface address](https://www.free-api.com/doc/439)
+
+# 2020-09-06
+
+#### The updated interfaces this month are: [New Crown National Epidemic (Tencent)](#438), [New Crown National Epidemic (136)](#437), [New Crown National Epidemic (Sina)](#436), [Film and Television Search](#435), [IP Address Search](#434), [Stock Search](#433), [Jokes](#432), [Zhou Gong’s Dream Interpretation](#431), [Book E-commerce Data](#430).
+
+- **<a id="438">National Epidemic of Novel Coronavirus (Tencent)<a/>:** National Epidemic of Novel Coronavirus, including specific counties and cities... [Interface address](https://www.free-api.com/doc/438)
+- **<a id="437">National Epidemic of Novel Coronavirus (136)<a/>(can be called online):** National Epidemic of Novel Coronavirus, including specific counties and cities... [Interface Address]( https://www.free-api.com/doc/437)
+- **<a id="436">National Epidemic of Novel Coronavirus (Sina)<a/>(can be called online):** National Epidemic of Novel Coronavirus, including specific counties and cities... [Interface Address]( https://www.free-api.com/doc/436)
+- **<a id="435">Film and video retrieval<a/>(can be called online):** Video and video information playback link retrieval [interface address](https://www.free-api.com/doc/435 )
+- **<a id="434">IP address query<a/>(can be called online):** According to the IP address, return the detailed query result [interface address](https://www.free-api.com /doc/434)
+- **<a id="433">Stock query<a/>(can be called online):** Provide Shanghai, Shenzhen, Hong Kong and US stock market information [interface address](https://www.free-api.com/doc/433)
+- **<a id="432">Joke Daquan<a/>(can be called online):** Collect online humor, funny, connotative jokes, and update [interface address](https://www.free-api.com/doc/432)
+- **<a id="431">Zhou Gong's Interpretation of Dreams<a/> (can be called online):** Zhou Gong's Dream Interpretation Daquan lists various dreams, deciphers various dreams and ... [Interface Address](https://www.free-api.com/doc/431)
+- **<a id="430">Book e-commerce data<a/>(can be called online):** Choose your favorite among thousands--good book recommendation, worthy of you... [Interface address ](https://www.free-api.com/doc/430)
+
+# 2020-08-01
+
+#### The updated interfaces this month are: [Hospital query](#429), [NBA regular season result query](#428), [Perpetual calendar year holiday list](#427), [Foreign exchange rate]( #426), [Real-time exchange rate query and conversion](#425), [Today in history](#424), [QR code generation](#423).
+
+- **<a id="429">Hospital query<a/>(can be called online):** Query the level and category of the hospital according to the province [interface address](https://www.free-api.com/doc/429)
+- **<a id="428">NBA regular season results query<a/>(can be called online):** NBA game results related information [interface address](https://www.free-api.com/doc/428)
+- **<a id="427">Perpetual calendar year holiday list<a/>(can be called online):** Return the current year holiday list according to the incoming year [interface address](https://www.free-api.com/doc/427)
+- **<a id="426">Foreign exchange rate<a/>(can be called online):** The price of the domestic currency is expressed in another country's currency, and its level... [Interface address](https://www.free-api.com/doc/426)
+- **<a id="425">Real-time exchange rate query and conversion<a/>(can be called online):** Real-time currency exchange rate query and conversion, the data is for reference only, transaction... [Interface address](https://www.free-api.com/doc/425)
+- **<a id="424">Today in History<a/>(can be called online):** Looking back at the long river of history, history is a mirror of life [interface address](https://www.free-api.com/doc/424)
+- **<a id="423">QR code generation<a/>(can be called online):** According to the set parameters, generate a QR code [interface address](https://www.free-api.com/doc/423)
+
+# 2020-07-05
+
+#### The updated interfaces this month are: [Location of mobile phone number](#422), [Disease treatment](#421), [Zip code](#420), [Fund financial data](#419), [Standard Weight Calculator](#418), [Old Yellow Calendar](#417).
+
+- **<a id="422">Attribution of mobile phone number<a/>(can be called online):** According to the mobile phone number or the first 7 digits of the mobile phone number, query the [interface address](https://www.free-api.com/doc/422)
+- **<a id="421">Disease treatment<a/>(can be called online):** Query treatment plan and understanding according to the keywords of symptoms and diseases... [Interface address](https://www.free-api.com/doc/421)
+- **<a id="420">Zip code and area code<a/> (can be called online):** Query the zip code and area code of various regions of the country according to the name [interface address](https://www.free-api.com/doc/420)
+- **<a id="419">Fund financial data<a/>(can be called online):** Fund financial data, fund API, fund interface, fund... [Interface address](https://www.free-api.com/doc/419)
+- **<a id="418">Standard Weight Calculator<a/>(can be called online):** Calculate whether your body is a beautiful teenager through height and weight... [Interface Address](https://www.free-api.com/doc/418)
+- **<a id="417">Laohuang calendar time<a/>(can be called online):** Provide Laohuang calendar query, daily auspicious and ominous and taboo query,... [Interface address](https://www.free-api.com/doc/417)
