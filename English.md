@@ -8,4 +8,10 @@
 
 # 2022-07-04
 
-### The interfaces updated this month are: [Daily Funny Jokes] (#567), [Visitor IP] (#566), [Recent holidays] (#565), [Lottery winning numbers] (#564).
+### The interfaces updated this month are: [Daily Funny Jokes](#567), [Visitor IP](#566), [Recent holidays](#565), [Lottery winning numbers](#564).
+
+- **<a id="567">Daily funny jokes</a>(Can be called online):** Paginate to get a list of text jokes [Interface address](https://www.free-api.com/doc/567)
+
+- **<a id="566">Visitor IP</a> (can be called online):** Get the visitor's ip address information [interface address](https://www.free-api.com/doc/566 )
+ - **<a id="565">Recent holidays</a>(can be called online):** Get the information of the last seven holidays before and after [interface address](https://www.free-api.com/doc/565 )
+ - **<a id="564">Lottery winning number</a>(can be called online:** Specify the period number universal winning number [interface address](https://www.free-api.com/doc/564 )
