@@ -363,3 +363,39 @@
 - **<a id="358">Douyin without watermark video analysis<a/>:** According to the link shared by Douyin, parse out the video without watermark [interface address](https://www.free-api.com/doc/358)
 - **<a id="357">No watermark video analysis<a/>(can be called online):** Support: Douyin, Kuaishou, Xiaohongshu, Weishi, Huoshan Xiaoshi... [Interface Address](https://www.free-api.com/doc/357)
 - **<a id="356">Baidu cloud disk extraction code<a/>(can be called online):** Obtain the extraction code according to the sharing link of Baidu cloud disk. Data comes... [Interface address](https://www.free-api.com/doc/356)
+
+
+# 2020-02-05
+
+#### The updated interfaces this month are: [Short URL Generation](#355), [IP Query](#354), [Get Avatar](#353), [ACG Image](#352), [One Language](#351), [Poisonous Chicken Soup for the Soul](#350), [IP Positioning](#349), [Coordinate Conversion](#348), [Distance Matrix (Many-to-Many)](#347), [ Distance calculation (one-to-many)](#346), [administrative division](#345), [address to coordinate](#344), [coordinate location description](#343), [keyword input prompt](#342), [Location Search](#341).
+
+- **<a id="355">Short URL generation<a/>(can be called online):** Generate a very long URL into a very short URL,... [Interface address](https://www.free-api.com/doc/355)
+- **<a id="354">IP query<a/>(can be called online):** Query location and network  according to ip [interface address](https://www.free-api.com/doc/354)
+- **<a id="353">Get avatar<a/>:** Get QQ avatar and Gravatar header... [Interface address](https://www.free-api.com/doc/353)
+- **<a id="352">ACG picture<a/>(can be called online):** Randomly return a picture (animation, comics, games, etc... [Interface address](https://www.free-api.com/doc/352)
+- **<a id="351">One ​​word<a/>(can be called online):** One word refers to a sentence, which can be a line in anime,... [Interface address](https://www.free-api.com/doc/351)
+- **<a id="350">Poisonous Chicken Soup for the Soul<a/>(can be called online):** Randomly get a piece of poisonous chicken soup to satisfy the empty you [interface address](https://www.free-api.com/doc/350)
+- **<a id="349">IP positioning<a/>(can be called online):** Obtain the current geographical position of the terminal device through the IP address... [Interface address](https://www.free-api.com/doc/349)
+- **<a id="348">Coordinate conversion<a/>(can be called online):** Implement coordinate system from other map providers or standard GPS... [Interface address](https://www.free-api.com/doc/348)
+- **<a id="347">Distance Matrix (many-to-many)<a/>(can be called online):** DistanceMatrix (DistanceMatrix)... [Interface Address](https://www.free-api.com/doc/347)
+- **<a id="346">Distance calculation (one-to-many)<a/>(can be called online):** This service is used for single origin to multiple destinations, or multiple origins to single destination... [ Interface address](https://www.free-api.com/doc/346)
+- **<a id="345">Administrative divisions<a/>:** This interface provides Chinese standard administrative division data, which can be used to generate... [Interface address](https://www.free-api.com/doc/345)
+- **<a id="344">Address to coordinate<a/>(can be called online):** This interface provides the conversion from address description to the location coordinates... [Interface address](https://www.free-api.com/doc/344)
+- **<a id="343">Coordinate location description<a/>(can be called online):** This interface provides text description from coordinates to coordinate location... [Interface address](https://www.free-api.com/doc/343)
+- **<a id="342">Keyword input prompt<a/>(can be called online):** Used to obtain the completion and prompt of the input keyword to help users... [Interface address](https://www.free-api.com/doc/342)
+- **<a id="341">Location search<a/>(can be called online):** Provides a search function of three types of range conditions: Specify a city... [Interface address](https://www.free-api.com/doc/341)
+
+# 2020-01-09
+
+#### This month's updated interfaces are: [Random Event](#340), [Exchange Rate and Currency Exchange Rate](#339), [Yiyun Machine Translation](#338), [Air Quality](#337 ), [Life Index](#336), [3-Day Weather Forecast](#335), [Live Weather](#334), [Turing Robot](#333), [Location of Mobile Number](#332 ), [the location of the mobile phone number](#331).
+
+- **<a id="340">Random Activities<a/>(can be called online):** Find random activities to combat boredom, provided you can read Baiying... [Interface Address](https://www.free-api.com/doc/340)
+- **<a id="339">Exchange rate and currency exchange rate<a/>(can be called online):** The exchange rate API is for the current exchange rate issued by the European Central Bank... [Interface Address](https://www.free-api.com/doc/339)
+- **<a id="338">YeCloud Machine Translation<a/>:** Yiyun Machine Translation Open API is GTCOM for the general public... [Interface Address](https://www.free-api.com/doc/338)
+- **<a id="337">Air quality<a/>:** Through the air quality data interface, you can get air quality related... [Interface address](https://www.free-api.com/doc/337)
+- **<a id="336">Living Index<a/>:** Get its living index according to city information [Interface address](https://www.free-api.com/doc/336)
+- **<a id="335">3-day weather forecast<a/>:** Get its 3-day weather forecast based on city information [interface address](https://www.free-api.com/doc/335)
+- **<a id="334">Live Weather<a/>:** Get its live weather based on city information [interface address](https://www.free-api.com/doc/334)
+- **<a id="333">Turing Robot<a/>(can be called online):** Based on Turing Robot Platform Semantic Understanding, Deep Learning and other cores... [Interface Address](https://www.free-api.com/doc/333)
+- **<a id="332">Mobile number attribution<a/>:** Free mobile number attribution API query interface, from... [Interface address](https://www.free-api.com/doc/332)
+- **<a id="331">Mobile number attribution<a/>:** Free mobile number attribution API query interface, from... [Interface address](https://www.free-api.com/doc/331)
