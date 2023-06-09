@@ -1,6 +1,7 @@
 ### <b>为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口</b>——您的star是我一直维护的动力 : )
 ### <b>现已发布【免费API】公众号，关注公众号可以获取相关密钥，也可以接收到每月更新接口消息（每月一次，不打扰大家），希望大家多关注，随时来个三连加点击广告<b>——您的关注是我一直更新的动力 : )
 ##[程序员的浪漫](https://anniversary.fang99.cc/)
+##[你适合干程序吗？](https://mbti.fang99.cc/#/)
 <div align=center>
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
