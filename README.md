@@ -5,7 +5,14 @@
 <div align=center>
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
- 
+
+# 2023-07-12
+### 本月更新的接口有：[PING检测](#616)，[热搜](#615)，[JS混淆加密](#614)，[Bing壁纸](#613)。
+* **<a id="616">PING检测</a>(可在线调用):** PING检测 [接口地址](https://www.free-api.com/doc/616)
+* **<a id="615">热搜</a>(可在线调用):** 热搜 [接口地址](https://www.free-api.com/doc/615)
+* **<a id="614">JS混淆加密</a>(可在线调用):** 实现JS代码混淆加密 [接口地址](https://www.free-api.com/doc/614)
+* **<a id="613">Bing壁纸</a>(可在线调用):** 获取不同国家Bing 壁纸 [接口地址](https://www.free-api.com/doc/613)
+
 # 2023-06-07
 ### 本月更新的接口有：[爱奇艺视频](#612)，[指定大小图片](#611)，[旺财图片](#610)，[猫咪图片](#609)。
 * **<a id="612">爱奇艺视频</a>:** 根据爱奇艺视频id，获取相应视频详细信息 [接口地址](https://www.free-api.com/doc/612)
