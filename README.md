@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2023-11-11
+### 本月更新的接口有：[沪深股市](#628)，[车检计算器](#627)。
+* **<a id="628">沪深股市</a>:** 数据仅供参考，不作投资使用，每5分钟更新... [接口地址](https://www.free-api.com/doc/628)
+* **<a id="627">车检计算器</a>:** 根据车辆注册日期及类型，计算车辆的下次上... [接口地址](https://www.free-api.com/doc/627)
+
 # 2023-10-07
 ### 本月更新的接口有：[每日英语](#626)，[智能取名](#625)。
 * **<a id="626">每日英语</a>(可在线调用):** 每日一句经典英语范句 [接口地址](https://www.free-api.com/doc/626)
