@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2023-12-18
+### 本月更新的接口有：[生辰助手](#630)，[数独游戏](#629)。
+* **<a id="630">生辰助手</a>:** 根据年月日时查询生辰八字等信息 [接口地址](https://www.free-api.com/doc/630)
+* **<a id="629">数独游戏</a>:** 数独生成器，一款数独谜题和答案在线生成A... [接口地址](https://www.free-api.com/doc/629)
+
 # 2023-11-11
 ### 本月更新的接口有：[沪深股市](#628)，[车检计算器](#627)。
 * **<a id="628">沪深股市</a>:** 数据仅供参考，不作投资使用，每5分钟更新... [接口地址](https://www.free-api.com/doc/628)
