@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2024-01-12
+### 本月更新的接口有：[免费AI](#632)，[医疗图谱](#631)。
+* **<a id="632">免费AI</a>(可在线调用):** 响应更快，但不支持连续对话 [接口地址](https://www.free-api.com/doc/632)
+* **<a id="631">医疗图谱</a>(可在线调用):** 根据关键词展示该疾病的相关症状，治疗方式... [接口地址](https://www.free-api.com/doc/631)
+
 # 2023-12-18
 ### 本月更新的接口有：[生辰助手](#630)，[数独游戏](#629)。
 * **<a id="630">生辰助手</a>:** 根据年月日时查询生辰八字等信息 [接口地址](https://www.free-api.com/doc/630)
