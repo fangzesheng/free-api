@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2024-03-07
+### 本月更新的接口有：[天文图像图片](#636)，[测试数据](#635)。
+* **<a id="636">天文图像图片</a>(可在线调用):** 随机天文图像 [接口地址](https://www.free-api.com/doc/636)
+* **<a id="635">测试数据</a>(可在线调用):** 一个免费的在线 REST API，您可以... [接口地址](https://www.free-api.com/doc/635)
+
 # 2024-02-17
 ### 本月更新的接口有：[饮料酒品](#634)，[随机活动](#633)。
 * **<a id="634">饮料酒品</a>(可在线调用):** 查询来自世界各地的饮料和鸡尾酒 [接口地址](https://www.free-api.com/doc/634)
