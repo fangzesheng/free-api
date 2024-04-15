@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2024-04-15
+### 本月更新的接口有：[音乐聚合搜索](#638)，[音乐ID获取](#637)。
+* **<a id="638">音乐聚合搜索</a>(可在线调用):** 音乐聚合搜索，支持网易/QQ/酷我/咪咕... [接口地址](https://www.free-api.com/doc/638)
+* **<a id="637">音乐ID获取</a>(可在线调用):** 音乐聚合搜索所需ID，支持网易/QQ/酷... [接口地址](https://www.free-api.com/doc/637)
+
 # 2024-03-07
 ### 本月更新的接口有：[天文图像图片](#636)，[测试数据](#635)。
 * **<a id="636">天文图像图片</a>(可在线调用):** 随机天文图像 [接口地址](https://www.free-api.com/doc/636)
