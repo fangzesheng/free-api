@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2024-10-24
+### 本月更新的接口有：[二维码生成](#650)，[高质量小姐姐](#649)。
+* **<a id="650">二维码生成</a>:** 快速将URL或者文字生成二维码 [接口地址](https://www.free-api.com/doc/650)
+* **<a id="649">高质量小姐姐</a>(可在线调用):** 你们要的小姐姐来了，别又弄崩了 [接口地址](https://www.free-api.com/doc/649)
+
 # 2024-09-14
 ### 本月更新的接口有：[时间段的温馨提示](#648)，[随机人设](#647)。
 * **<a id="648">时间段的温馨提示</a>(可在线调用):** 根据当前时间段返回相应的问候语和提示言语... [接口地址](https://www.free-api.com/doc/648)
