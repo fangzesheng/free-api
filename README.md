@@ -6,6 +6,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2024-11-27
+### 本月更新的接口有：[通义AI对话大模型](#652)，[中国法定节假日查询](#651)。
+* **<a id="652">通义AI对话大模型</a>(可在线调用):** 阿里旗下通义AI语言对话大模型，暂时还能... [接口地址](https://www.free-api.com/doc/652)
+* **<a id="651">中国法定节假日查询</a>(可在线调用):** 中国法定节假日查询，数据目前支持2014... [接口地址](https://www.free-api.com/doc/651)
+
 # 2024-10-24
 ### 本月更新的接口有：[二维码生成](#650)，[高质量小姐姐](#649)。
 * **<a id="650">二维码生成</a>:** 快速将URL或者文字生成二维码 [接口地址](https://www.free-api.com/doc/650)
