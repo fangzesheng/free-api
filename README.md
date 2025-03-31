@@ -4,6 +4,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2025-03-31
+### 本月更新的接口有：[DeepSeek-超算](#660)，[DeepSeek-百炼](#659)。
+* **<a id="660">DeepSeek-超算</a>(可在线调用):** 通过超算互联网白嫖DeepSeek-R1... [接口地址](https://www.free-api.com/doc/660)
+* **<a id="659">DeepSeek-百炼</a>(可在线调用):** 通过百炼白嫖DeepSeek-R1满血版... [接口地址](https://www.free-api.com/doc/659)
+
 # 2025-02-28
 ### 本月更新的接口有：[DeepSeek-星火](#658)，[DeepSeek-硅基流动](#657)。
 * **<a id="658">DeepSeek-星火</a>(可在线调用):** 通过讯飞星火白嫖DeepSeek-R1满... [接口地址](https://www.free-api.com/doc/658)
