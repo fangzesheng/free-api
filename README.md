@@ -4,6 +4,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2025-04-20
+### 本月更新的接口有：[百度-财经榜](#662)，[百度-热梗榜](#661)。
+* **<a id="662">百度-财经榜</a>(可在线调用):** 获取百度财经榜相关数据 [接口地址](https://www.free-api.com/doc/662)
+* **<a id="661">百度-热梗榜</a>(可在线调用):** 获取百度热梗榜相关数据 [接口地址](https://www.free-api.com/doc/661)
+
 # 2025-03-31
 ### 本月更新的接口有：[DeepSeek-超算](#660)，[DeepSeek-百炼](#659)。
 * **<a id="660">DeepSeek-超算</a>(可在线调用):** 通过超算互联网白嫖DeepSeek-R1... [接口地址](https://www.free-api.com/doc/660)
