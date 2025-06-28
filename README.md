@@ -4,6 +4,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2025-06-28
+### 本月更新的接口有：[大学信息](#666)，[随机女神](#665)。
+* **<a id="666">大学信息</a>(可在线调用):** 中国所有大学信息 [接口地址](https://www.free-api.com/doc/666)
+* **<a id="665">随机女神</a>(可在线调用):** 随机女神，懂得都得 [接口地址](https://www.free-api.com/doc/665)
+
 # 2025-05-28
 ### 本月更新的接口有：[手机号归属地](#664)，[双色球开奖查询](#663)。
 * **<a id="664">手机号归属地</a>(可在线调用):** 查询指定手机号码归属地 [接口地址](https://www.free-api.com/doc/664)
