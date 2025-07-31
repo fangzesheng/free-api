@@ -4,6 +4,11 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2025-07-31
+### 本月更新的接口有：[元素周期表](#668)，[百家姓](#667)。
+* **<a id="668">元素周期表</a>(可在线调用):** 查询化学元素信息，原子构造，原子质量，体... [接口地址](https://www.free-api.com/doc/668)
+* **<a id="667">百家姓</a>(可在线调用):** 查询指定姓氏或随机姓氏详细介绍，图腾等 [接口地址](https://www.free-api.com/doc/667)
+
 # 2025-06-28
 ### 本月更新的接口有：[大学信息](#666)，[随机女神](#665)。
 * **<a id="666">大学信息</a>(可在线调用):** 中国所有大学信息 [接口地址](https://www.free-api.com/doc/666)
