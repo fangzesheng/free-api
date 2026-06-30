@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-04-29
+### 本月更新的接口有：[AI新闻简报](#678)。
+* **<a id="678">AI新闻简报</a>:** 最新新闻资讯简报，各类国内、国际、体育、... [接口地址](https://www.free-api.com/doc/678)
+
 # 2026-03-29
 ### 本月更新的接口有：[用户界面头像](#677)。
 * **<a id="677">用户界面头像</a>:** 根据名字生成带有首字母的头像 [接口地址](https://www.free-api.com/doc/677)
