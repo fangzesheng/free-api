@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-08-05
+### 本月更新的接口有：[数独游戏生成器](#682)。
+* **<a id="682">数独游戏生成器</a>(可在线调用):** 数独生成器，一款数独谜题和答案在线生成A... [接口地址](https://www.free-api.com/doc/682)
+
 # 2026-07-25
 ### 本月更新的接口有：[字符串加密](#681)，[台风路径](#680)，[实时台风](#679)。
 * **<a id="681">字符串加密</a>(可在线调用):** 提供多种哈希加密算法支持，包括MD4、M... [接口地址](https://www.free-api.com/doc/681)
